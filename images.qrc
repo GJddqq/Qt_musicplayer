@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/close.png</file>
+        <file>img/currentloop.png</file>
+        <file>img/designer.jpg</file>
+        <file>img/file.png</file>
+        <file>img/ico.png</file>
+        <file>img/list.png</file>
+        <file>img/loop.png</file>
+        <file>img/max.png</file>
+        <file>img/min.png</file>
+        <file>img/mute.png</file>
+        <file>img/next.png</file>
+        <file>img/openfile.png</file>
+        <file>img/pause.png</file>
+        <file>img/play.png</file>
+        <file>img/pre.png</file>
+        <file>img/random.png</file>
+        <file>img/reset.png</file>
+        <file>img/sequential.png</file>
+        <file>img/sliderHandle.png</file>
+        <file>img/volume.png</file>
+    </qresource>
+</RCC>
